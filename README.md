@@ -9,6 +9,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
 <br><br>
 
+<p align="center">
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rubydevz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img alt="Top Langs" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rubydevz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
+
+
 <!--
 **luixxxz-neves/luixxxz-neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
