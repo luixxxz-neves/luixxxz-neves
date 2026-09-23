@@ -14,7 +14,7 @@
 
 ## 🦆
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="500">
 <br><br>
 </p>
 
