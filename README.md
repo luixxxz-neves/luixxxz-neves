@@ -25,6 +25,12 @@
   <img alt="Top Langs" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luixxxz-neves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
+<br>
+
+<hr>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/luixxxz-neves/luixxxz-neves/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 **luixxxz-neves/luixxxz-neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
