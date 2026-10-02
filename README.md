@@ -29,7 +29,7 @@
 
 <hr>
 <p align="center">
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/luixxxz-neves/luixxxz-neves/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/luixxxz-neves/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 <!--
