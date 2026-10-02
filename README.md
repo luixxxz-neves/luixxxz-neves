@@ -28,9 +28,8 @@
 <br>
 
 <hr>
-<p align="center">
+
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-</p>
 
 <!--
 **luixxxz-neves/luixxxz-neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
