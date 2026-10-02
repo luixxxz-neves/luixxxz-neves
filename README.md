@@ -28,6 +28,4 @@
 <br>
 
 <hr>
-
-
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/luixxxz-neves/luixxxz-neves/output/github-contribution-grid-snake-dark.svg)
