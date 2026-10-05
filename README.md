@@ -29,6 +29,4 @@
 
 <hr>
 
-![Snake animation](https://githubusercontent.com)
-
-
+![Snake animation](https://githubusercontent.com/.github/workflows/sanke.yml)
