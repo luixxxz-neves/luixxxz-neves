@@ -28,5 +28,7 @@
 <br>
 
 <hr>
+
 ![Snake animation](https://githubusercontent.com)
+
 
