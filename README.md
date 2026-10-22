@@ -1,10 +1,10 @@
-## Hi there 👋
+<!--  ## Hi there 👋 -->
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="450">
   <br><br> 
 </p>
 
-## 👻
+<!-- ## 👻
 
 <p align="center">
 <br><br>
@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="400">
 <br><br>
-</p>
+</p> -->
 
 ## Contribuições ❄
 
