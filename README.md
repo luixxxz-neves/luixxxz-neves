@@ -1,5 +1,5 @@
 <!--  ## Hi there 👋 -->
-## 👻 Sobre mim
+## Sobre mim 👻 
 <p>Desenvolvedor de sistemas Júnior Full Stack. Formado no Técnico em desenvolvimento de sistemas pelo IFB e trabalhando atualmente na Dexion informática.</p>
 
 <hr>
